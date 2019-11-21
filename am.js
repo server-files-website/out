@@ -1,4 +1,7 @@
 
+  this.player.src([
+  { type: "video/mp4", src: "https://r6---sn-aigl6n7z.googlevideo.com/videoplayback?expire=1574365597&ei=PZXWXeCJLYP0Vo-fmPAP&ip=95.179.228.10&id=o-ABPgQMwElug6eIiyGSWO1fUAiqbVNRUCtuNG4fxJfahW&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigl6n7z%2Csn-aigzrn7k&ms=au%2Crdu&mv=m&mvi=5&pl=26&initcwndbps=873750&mime=video%2Fmp4&gir=yes&clen=7633354&ratebypass=yes&dur=139.389&lmt=1540215560823224&mt=1574343945&fvip=2&fexp=23842630%2C23860862&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgDOqBvK6_R-J6gMAzIETJnapFcTtsp7gFazOM4-DFKO4CIQDahoZk741w0pkdKJqdmWhe92xUOoo5MvyaiLQklIi-5w%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIgaWrYHRLlrCyyuGtUpzkJ6hjdoUwiWcjjpVb51-gRFYoCIQC9XDQKT1EiEx6Kc60aOdVojHRpwZ6u6wYtcDWOTTMpcw%3D%3D" }]);
+
 
   this.player.on('adserror', function (error) {
     _this.log('error occurred');
