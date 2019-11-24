@@ -4,7 +4,6 @@
   background-image: -moz-radial-gradient(50% 20%, circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.5) 100%);
   background-image: -webkit-radial-gradient(50% 20%, circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.5) 100%);
   background-image: radial-gradient(circle at 50% 20%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 40%, rgba(0, 0, 0, 0.5) 100%);
-  background-color: #364563;
   height: 100%;
   color: #000;
   font-size: 16px;
