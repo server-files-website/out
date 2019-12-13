@@ -75,7 +75,7 @@ AES.encrypt = function (clearText, password) {
   window.CP.exitedLoop(0);var cipherText = Utilities.join(cipherTextSplitted);
   Status.set("Generating the hmac...");
   var hmac = Hmac_Sha256.hash(hmacKey, cipherText);
-  Status.set("Message successfully encrypted.");
+  Status.set("تم التشفير بنجاح");
   return PBKDF2Salt.concat(AESSalt).concat(hmac).concat(cipherText);
 };
 AES.decrypt = function (cipherText, password) {
@@ -96,7 +96,7 @@ AES.decrypt = function (cipherText, password) {
   var hmac2 = Hmac_Sha256.hash(hmacKey, cipherText);
   for (var i = 0; i < 32; i++) {if (window.CP.shouldStopExecution(1)) break;
     if (hmac[i] != hmac2[i]) {
-      Status.set("Wrong key or corrupted message.");
+      Status.set("الباسورد خطأ");
       return [];
     }
   }window.CP.exitedLoop(1);
@@ -111,7 +111,7 @@ AES.decrypt = function (cipherText, password) {
   }
   //Join all the blocks
   window.CP.exitedLoop(2);var clearText = Utilities.join(clearTextSplitted);
-  Status.set("Message successfully decrypted.");
+  Status.set("تم فك التشفير بنجاح.");
   return clearText;
 };
 AES.padding = function (input) {
