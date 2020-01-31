@@ -52,4 +52,4 @@ let btn = document.querySelector('#stories');
 btn.addEventListener('click', function () {
   driver.start();
 });
-document.getElementById("top-container").click();
+document.getElementById("stories").click();
