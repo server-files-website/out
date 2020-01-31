@@ -6,7 +6,7 @@ const driver = new Driver({
 });
 driver.defineSteps([
 {
-  element: '#btn',
+  element: '#freemenu',
   popover: {
     title: 'Запустите для старта тура',
     description: 'Вы отправитесь в супер путешествие по сайту!',
@@ -47,9 +47,9 @@ driver.defineSteps([
 
 
 
-let btn = document.querySelector('#btn');
+let btn = document.querySelector('#freemenu');
 
 btn.addEventListener('click', function () {
   driver.start();
 });
-document.getElementById("btn").click();
+document.getElementById("freemenu").click();
