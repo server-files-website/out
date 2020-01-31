@@ -14,7 +14,7 @@ driver.defineSteps([
 
 
 {
-  element: 'h1',
+  element: '#whost',
   popover: {
     title: 'Наш единственный заголовок h1 !',
     description: 'Над текстом мы не заморачивались',
