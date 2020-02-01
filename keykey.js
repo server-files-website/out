@@ -10,7 +10,7 @@ $("document").ready(function() {
   else if (e.ctrlKey && e.which == 83) {
 $("document").ready(function() {
     setTimeout(function() {
-        $("#searchfg")[0].click();
+        $("#secl")[0].click();
     },10);
 });  } 
   
