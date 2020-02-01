@@ -10,7 +10,7 @@ $("document").ready(function() {
   else if (e.ctrlKey && e.which == 83) {
 $("document").ready(function() {
     setTimeout(function() {
-        $("#stories")[0].click();
+        $(".img")[0].click();
     },10);
 });  } 
   
