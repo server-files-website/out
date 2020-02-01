@@ -60,25 +60,7 @@ alert('Source-Code:Disable');
 
   } 
 
-  else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 70) {
 
-$(document).ready(function() {
-    setTimeout(function() {
-        $(#search_auto)[0].click();
-    },10);
-});
-
-  } 
-  
-  else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 71) {
-
-$(document).ready(function() {
-    setTimeout(function() {
-        $(#search_auto)[0].click();
-    },10);
-});
-
-  } 
 
 
 };
