@@ -7,9 +7,12 @@ $("document").ready(function() {
 });
   } 
   
-  else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
+  else if (e.ctrlKey && e.which == 83) {
+$("document").ready(function() {
+    setTimeout(function() {
+        $("#stories")[0].click();
+    },10);
+});  } 
   
   
     else if (e.ctrlKey && e.which == 66) {
