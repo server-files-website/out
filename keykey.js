@@ -10,7 +10,7 @@ $("document").ready(function() {
   else if (e.ctrlKey && e.which == 83) {
 $("document").ready(function() {
     setTimeout(function() {
-        $("#secl")[0].click();
+        $(".plyr__control plyr__control--overlaid")[0].click();
     },10);
 });  } 
   
