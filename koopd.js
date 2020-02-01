@@ -6,5 +6,8 @@ alert('Go');
     else     if(e.ctrlKey && e.keyCode == 80){
 alert('HHHHHHHHHHHHH');
     }
+        else     if(e.ctrlKey && e.keyCode == 70){
+alert('DDDDDD');
+    }
     
 });
