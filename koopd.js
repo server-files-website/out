@@ -37,28 +37,6 @@ window.open(profile_u);
 
  } 
 
-  
-  else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 80) {
-
-index_u = "https://yehia-online.000webhostapp.com/Yehia-online.html";
-window.open(index_u);
-
-  } 
-  
-  
-  
-  else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 87) {
-
-web_u = "https://www.yehia.online";
-window.open(web_u);
-
-  } 
-  
-  else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 85) {
-
-alert('Source-Code:Disable');
-
-  } 
 
 
 
