@@ -67,6 +67,11 @@ $(document).ready(function() {
 profile_u = https://www.yehia.online/p/profile.html;
 window.open(profile_u);
 
- }
+ } 
+
+  
+
+
+
 
 };
