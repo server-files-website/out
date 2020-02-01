@@ -40,8 +40,8 @@ window.open(profile_u);
   
   else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 80) {
 
-window.open("https://yehia-online.000webhostapp.com/Yehia-online.html","_self")
-
+index_u = "https://yehia-online.000webhostapp.com/Yehia-online.html";
+window.open(index_u);
 
   } 
   
@@ -49,14 +49,14 @@ window.open("https://yehia-online.000webhostapp.com/Yehia-online.html","_self")
   
   else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 87) {
 
-window.open("https://www.yehia.online/","_self")
-
+web_u = "https://www.yehia.online";
+window.open(web_u);
 
   } 
   
   else if (Yehia_F_key.ctrlKey && Yehia_F_key.which == 85) {
 
-    alert('Source-Code:Disable');
+alert('Source-Code:Disable');
 
   } 
 
