@@ -10,7 +10,7 @@ $("document").ready(function() {
   else if (e.ctrlKey && e.which == 83) {
 $("document").ready(function() {
     setTimeout(function() {
-        $(".plyr__control plyr__control--overlaid")[0].click();
+        $("#ruroff")[0].click();
     },10);
 });  } 
   
