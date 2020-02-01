@@ -7,28 +7,12 @@ $("document").ready(function() {
 });
   } 
   
-  else if (e.ctrlKey && e.which == 83) {
-$("document").ready(function() {
-    setTimeout(function() {
-        $("#ruroff")[0].click();
-    },10);
-});  } 
+  else if (e.ctrlKey && e.which == 80) {
+
+window.open("https://www.w3schools.com");
+
+} 
   
   
-    else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
-    else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
-    else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
-    else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
-    else if (e.ctrlKey && e.which == 66) {
-    alert("Ctrl + B shortcut combination was pressed");
-  } 
   
 };
