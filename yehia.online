@@ -1,0 +1,425 @@
+
+<style>
+@import "https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css";
+@import "https://fonts.googleapis.com/earlyaccess/amiri.css";
+img#rescreenmore {
+    width: 300px;
+    height: 123px;
+}
+div#rightimage {
+    position: relative;
+    right: 124px;
+}
+.post-body ul, .post-body ol {
+    margin: -25px 0 0 6.153846em;
+}
+.info h4 {
+    position: relative;
+    padding: 0 0 20px 0;
+    margin: 0 0 20px 0;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 25px;
+    color: #372f2b;
+    font-family: 'Droid Arabic Naskh', serif;
+    margin-left: 29px;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src='https://raw.githack.com/yehia-hacker/yehia.online/master/CourseS/js/style.js'>
+
+</script>
+
+
+<div id="animatedModal">
+
+<div class="modalContent">
+
+
+<!-- Start content -->
+
+
+
+
+
+
+
+
+
+<video autoplay muted loop poster="https://cdn.statically.io/gh/yehia-hacker/yehia.online/ccbd8a21/Story/set_pc_net.png">
+<!-- Video Background -->
+
+<source src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/ccbd8a21/Tools/12.mp4" type="video/mp4">
+<!-- End Background -->
+
+Your browser does not support the video tag.
+</video>
+<div class="container">
+<header>
+<div class="jumbotron">
+
+<img class="donw1" src="https://raw.githubusercontent.com/yehia-hacker/yehia.online/master/thumbnail%20(1).png" alt="The Witcher Logo">
+</div>
+</header>
+
+<main>
+<div class="row overview">
+<div class="col-lg-12 col-xs-12">
+<yhide id="hdnl">&#8287;
+</yhide>
+  
+  
+<h2 id="infomdbtn">&#xA0;	</h2>
+<p>&#xA0;	
+</div>
+
+
+<h2 id="morecourseme">
+
+
+أدوات أخري قد تعجبك
+
+
+</h2>
+<div class="row">
+<!-- course more Image -->
+
+<div class="overview-figure col-lg-3 col-md-4 col-sm-4">
+<a href='https://www.yehia.online/p/egymor-pro.html'>
+<img id='rescreenmore' class="img-responsive" src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/fd637a3f/Tools/pc_down.jpg" alt="Screen Shot from the game">
+</a>
+</div>
+
+<div class="overview-figure col-lg-3 col-md-4 col-sm-4">
+<a href='https://www.yehia.online/p/re-info.html'>
+
+<img id='rescreenmore' class="img-responsive" src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/fd637a3f/Tools/pc_out.jpg" alt="Screen Shot from the game">
+</a>
+</div>
+</div>
+</section>
+
+<div class="row">
+
+<div class="overview-figure col-lg-3 col-md-4 col-sm-4">
+<a href='https://www.yehia.online/p/req-email.html'>
+
+<img id='rescreenmore' class="img-responsive" src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/2c0fe2bc/Tools/encrypt.jpg">
+</a>
+</div>
+
+<div class="overview-figure col-lg-3 col-md-4 col-sm-4">
+<a href='https://www.yehia.online/p/spyer.html'>
+
+<img id='rescreenmore'  class="img-responsive" src="https://user-images.githubusercontent.com/42983220/77710165-ff4a5480-6fd5-11ea-90f5-c82e0b72b443.png">
+</a>
+</div>
+</div>
+
+
+<hr class="hr2">
+
+<section>
+
+<div id="geralt" class="row row-margin">
+<div class="col-lg-12">
+<!-- Name User -->
+
+<h2>Yehia Online</h2>
+<!-- End User -->
+
+<hr class="hr1">
+</div>
+
+<div class="col-lg-6">
+<div id="rightimage">
+<img alt="Geralt image" class="img-responsive" src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/06b6b017/images/Anonymous.png"></div></div>
+<div class="col-lg-6">
+<div id="proname">
+<!-- End image -->
+
+<p>
+
+<!-- Bio -->
+
+باحث حر في أمن المعلومات مهتم في معالجه وتطوير البرمجيات الخبيثه
+<!-- End Bio -->
+
+
+
+
+</p>
+</div></div>
+</div>
+
+
+</section>
+
+<hr class="hr2">
+
+</main>
+</div>
+
+<footer>
+<div class="col-lg-12">
+
+
+
+<div id='yehianew'>
+<div class="block">
+<div class="product">
+<!-- Video How Image and Video -->
+
+<a class="btn ho js-trigger-video-modal adminDemoVideo img-responsive" data-youtube-id="ulKCyiQJg_Y" href="https://www.youtube.com/watch?v=ulKCyiQJg_Y">
+
+
+<div style="width:256px;height:177.78px;overflow:hidden;">
+<img src="https://cdn.statically.io/gh/yehia-hacker/yehia.online/82cda19c/Tools/man-theme.jpg">
+</div>
+
+</a>
+<!--End How -->
+
+</div>
+<div class="info">
+
+
+<!-- Title -->
+<h4>
+
+..... للأختراق (Spyer) أداه
+
+
+</h4>
+<!-- End Image -->
+
+
+
+<!-- THe desription  -->
+
+<span class="description">
+أداه تعمل علي التحكم في قطع نظام التشغيل والحصول علي معلومات التي تمر خلالها
+</span>
+<!-- End Descr -->
+
+
+<!-- Price  -->
+
+<span class="price">$15.00</span>
+<!-- End Price -->
+
+<a class="buy_now whiteersd" id="modalBtn" >أشتري الأن</a>
+</div>
+<div class="details">
+<!-- Time Course -->
+
+<span class="time">The use is final</span>
+<!-- End time -->
+
+<ul class="rating">
+<li class="rated"></li>
+<li class="rated"></li>
+<li class="rated"></li>
+<li class="rated"></li>
+<li></li>
+</ul>
+</div>
+</div>
+</div>
+
+<section class="video-modal">
+
+<div class="video-modal-content" id="video-modal-content">
+<!-- Video Youtube -->
+
+<iframe allowfullscreen frameborder="0" height="100%" id="youtube" name="youtube" src="https://www.youtube.com/watch?v=ulKCyiQJg_Y" width="100%"></iframe> <a class="close-video-modal" href="#">X</a>
+</div>
+<!-- eND Youtube -->
+
+<div class="overlay"></div>
+</section>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'>
+
+</script>
+<script id="rendered-js" src='https://raw.githack.com/yehia-hacker/yehia.online/master/CourseS/js/video_M.js'>
+
+    </script>
+
+
+
+
+<div id="simpleModal" class="modal">
+<div class="modal-content">
+<div class="modal-header">
+<span class="closeBtn"><div id="cclose">
+<i class="fa fa-window-close" aria-hidden="true"></i>
+    </div></span>
+    <div id="titler">
+
+<h2>PayPal الدفع بواسطه</h2>
+</div>
+</div>
+<div class="modal-body">
+
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="this.target = 'paypal'; return ReadForm (this);">
+
+
+<script src='https://raw.githack.com/yehia-hacker/yehia.online/master/javascript/mail.js'>
+</script>
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="add" value="1">
+
+<input type="hidden" name="item_name" value="Item Name">
+
+
+<input type="hidden" name="amount" value="15.00">
+<input type="hidden" name="currency_code" value="USD">
+
+<input type="hidden" name="baseamt" value="15.00" />
+<input type="hidden" name="basedes" value="Spyer Tool " />
+
+<input type="hidden" name="on0" value="{  www.Yehia.online">
+<input type="hidden" name="os0" id="os0" value=" }">
+
+
+<br />
+<br />
+<div id="scanv">
+
+<div id="btnss">
+<input type="image" name="submit" id="bns111" src="https://i.ya-webdesign.com/images/paypal-buy-now-button-png-14.png" width='200' alt="PayPal - The safer, easier way to pay online">
+</div>
+</div>
+<img alt="" width="1" height="1" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif">
+</form>
+<br />
+<p>
+<div id="cpp">
+<div class="w3-container">
+
+<div id="shm1" class="w3-button w3-blue w3-border btnlsdo" style='size:20;'>كود خصم</div>
+<br>
+<br>
+<br>
+<div class="hm2" style="display: none;">
+<br/>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" onsubmit="this.target = 'paypal'; return ReadForm (this);">
+
+<script src='https://raw.githack.com/yehia-hacker/yehia.online/master/javascript/mail.js'>
+</script>
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="add" value="1">
+
+<input type="hidden" name="item_name" value="Item Name">
+
+
+<input type="hidden" name="amount" value="15.00">
+<input type="hidden" name="currency_code" value="USD">
+
+<input type="hidden" name="baseamt" value="15.00" />
+<input type="hidden" name="basedes" value="Spyer Tool" />
+
+<input type="hidden" name="on0" value="{  www.Yehia.online">
+<input type="hidden" name="os0" id="os0" value=" }">
+
+
+<div id="inputer">
+<p id="downer" class='pdowner'>ادخل كوبون التخفيض</p>
+<input type="text" size="10" name="coupcode" ;="">
+</div>
+<input type="button" size='40' value="تخفيض" onclick="coupval =this.form.coupcode.value;  ChkCoup();" />
+<br />
+<br />
+
+</div></div>
+</div>
+
+</div>
+</div>
+
+<script id="rendered-js">
+//Select the modal element
+var modal = document.getElementById("simpleModal");
+//Select the open modal button
+var modalBtn = document.getElementById("modalBtn");
+//Select the close button
+var closeBtn = document.getElementsByClassName("closeBtn")[0];
+
+
+//Create event listener to open modal on click of modalBtn
+modalBtn.addEventListener("click", openModal);
+
+//Create event listener to close modal on click of closeBtn
+closeBtn.addEventListener("click", closeModal);
+
+//Create event listener to close modal when we click outside the modal window
+window.addEventListener("click", windowOutsideClick);
+
+//function to open modal
+function openModal() {
+  modal.style.display = 'block';
+}
+
+//function to close modal
+function closeModal() {
+  modal.style.display = 'none';
+}
+
+//function to close outside window click
+function windowOutsideClick(e) {
+  if (e.target == modal) {
+    modal.style.display = "none";
+  }
+
+}
+    </script>
+
+<script src='https://cdn.statically.io/gh/server-files-website/out/a846c052/function.js'></script>
+
+
+<script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/remodal/1.1.0/remodal.min.js'></script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script id="rendered-js">
+$(document).ready(function () {
+  $('#shm1').click(function () {
+    $('.hm2').slideToggle("slow");
+
+  });
+});
+    </script>
+
+</div>
+</footer>
+
+</div>
+
+</div>
+</div>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://joaopereirawd.github.io/animatedModal.js/js/animatedModal.min.js'></script>
+<script id="rendered-js">
+$("#notification").animatedModal({
+  color: '#fcfcfc' });
+    </script>
+
+
+
+
+
+
+<script type="text/javascript">
+$("document").ready(function() {
+    setTimeout(function() {
+        $("#notification")[0].click();
+    },10);
+});
+
+
+
+
+</script>
